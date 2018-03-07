@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyUtil</string>
+
+
+    <string name="input_type">1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`~!@#$%^*()_+-={}[]:";'?,./&amp;&lt;&gt;</string>
+
+</resources>
